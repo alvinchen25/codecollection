@@ -1,1 +1,1 @@
-Selected examples of code that I've done. Some solutions from USACO, Codeforces, one python project I did to model vaccinations.
+Selected examples of code that I've done. One example in Julia from some of the ideas I'm currently fiddling with, ome solutions from USACO, Codeforces, one python project I worked on to model vaccinations.
