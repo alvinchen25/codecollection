@@ -1,3 +1,4 @@
+// PROBLEM: http://www.usaco.org/index.php?page=viewproblem2&cpid=1088
 #include <bits/stdc++.h>
 using namespace std;
 using ll = long long;
